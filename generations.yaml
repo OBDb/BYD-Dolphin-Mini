@@ -1,5 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/BYD_Seagull"
+
 generations:
   - name: "First Generation"
     start_year: 2023
+    end_year: 2023
+    description: "The BYD Seagull (marketed as Dolphin Mini in Latin America, Dolphin Surf in Europe, and Atto 1 in Australia/Asia-Pacific) is a battery electric city car (A-segment) produced by BYD Auto since April 2023. Positioned below the BYD Dolphin, it is currently the smallest BYD vehicle. Built on BYD's e-Platform 3.0 with model code EQ, it measures 3.78 meters in length with a wheelbase of 2.5 meters. The exterior combines sharp lines and angular headlights with a sloping roofline and rear light bar following BYD's Ocean Series design language. The minimalist interior features a rotatable 10.1-inch touchscreen and 5-inch digital instrument cluster. It is equipped with BYD Blade battery technology (LFP chemistry) in 30.08 kWh or 38.88 kWh capacities, with CLTC ranges of 305 km and 405 km respectively. A single permanent magnet synchronous motor produces 55 kW (75 HP) and 180 Nm of torque. The Seagull gained significant attention for its extremely competitive pricing—starting below CN¥90,000 (approximately US$12,000)—making it one of the most affordable purpose-built electric vehicles on the market. Upon launch, BYD received 10,000 orders in 24 hours, and the 200,000th unit rolled off the assembly line by November 2023."
+
+  - name: "First Generation (2024 Update)"
+    start_year: 2024
+    end_year: 2024
+    description: "In March 2024, BYD introduced the Seagull Honor Edition as the 2024 model year variant with a five percent price reduction in China. This update introduced new body color options including Ice Blue with Sea Blue interior, but maintained the same platform, powertrain, and core specifications of the original generation."
+
+  - name: "First Generation (2025 Facelift)"
+    start_year: 2025
     end_year: null
-    description: "The BYD Dolphin Mini (known as the Seagull in China) is an ultra-compact, affordable electric hatchback positioned as BYD's entry-level EV offering. Built on a shortened version of BYD's e-platform 3.0, it measures just 3.78 meters in length while offering a relatively spacious four-seat interior. The exterior design follows BYD's 'Ocean Aesthetics' design language with flowing lines, a smooth front fascia, and distinctive LED lighting signatures. Powered by BYD's proprietary Blade Battery technology with LFP (lithium iron phosphate) chemistry, it's equipped with a 38 kWh battery pack providing a CLTC range of approximately  305 km (189 miles). A single front-mounted electric motor produces 75 HP (55 kW) and 135 Nm of torque, sufficient for city driving with a top speed of about 130 km/h (81 mph). Inside, it features a minimalist but modern interior with a rotating 10.1-inch central touchscreen, digital instrument display, and basic comfort features. Despite its budget positioning, it offers smartphone integration, voice control, and essential safety systems. The Dolphin Mini/Seagull has gained significant attention for its extremely competitive pricing—starting under $10,000 in China—making it one of the most affordable purpose-built EVs on the market. This model represents BYD's strategy to democratize electric mobility and expand into price-sensitive markets globally."
+    description: "In February 2025, the Seagull received a significant update with revised front and rear bumper design, updated interior elements, and the addition of BYD's God's Eye C and DiPilot 100 advanced driver assistance systems as standard. The European market variant introduced as Dolphin Surf received increased length to 3.99 meters to accommodate revised front and rear crash structures. The updated model maintains the same e-Platform 3.0 base and battery options but with enhanced styling and technology features."
